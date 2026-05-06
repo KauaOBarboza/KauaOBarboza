@@ -1,5 +1,10 @@
 # Olá me chamo Kauã
-## Bem vindo ao meu perfil do GitHub
+## Bem vindo ao meu perfil do GitHub :computer:
+
+## Atualmente estou aprendendo:
+
+<i class="devicon-javascript-plain colored"></i>
+          
 
 <!--
 **KauaOBarboza/KauaOBarboza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
