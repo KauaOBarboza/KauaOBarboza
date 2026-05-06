@@ -1,4 +1,5 @@
-## Hi there 👋
+# Olá me chamo Kauã
+## Bem vindo ao meu perfil do GitHub
 
 <!--
 **KauaOBarboza/KauaOBarboza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
