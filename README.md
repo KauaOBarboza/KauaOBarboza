@@ -1,22 +1,40 @@
-# Olá me chamo Kauã
-## Bem vindo ao meu perfil do GitHub :computer:
+# Olá! Eu sou o Kauã 👋
 
-## Atualmente estou aprendendo:
+Estudante de programação, atualmente focado em **C# e .NET**.
 
-<i class="devicon-javascript-plain colored"></i>
-          
+## 🚀 Sobre mim
 
-<!--
-**KauaOBarboza/KauaOBarboza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de programação
+- 💻 Estudando **C# e .NET**
+- 🧠 Aprendendo **Programação Orientada a Objetos (POO)**
+- 🔧 Praticando **Git e GitHub**
+- 📚 Sempre buscando aprender e melhorar meus projetos
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- .NET
+- JavaScript
+- Git
+- GitHub
+
+## 📂 Projetos
+
+### 🎵 Screen Sound 2.0
+Aplicação de console desenvolvida em C# para cadastro e gerenciamento de bandas, álbuns e músicas.
+
+O projeto utiliza conceitos de **POO, encapsulamento, interfaces, coleções e IEnumerable**.
+
+## 📖 Atualmente estudando
+
+- C# e .NET
+- Programação Orientada a Objetos
+- Interfaces e classes abstratas
+- Herança e polimorfismo
+- Encapsulamento
+- Coleções e IEnumerable
+- Git e GitHub
+
+---
+
+⭐ Este perfil reúne meus estudos e projetos enquanto evoluo como programador.
